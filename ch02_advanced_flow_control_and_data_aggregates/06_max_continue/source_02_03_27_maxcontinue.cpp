@@ -9,7 +9,7 @@ int main(void) {
 
     cout << "Enter a number (Enter \"-1\" to exit)\n";
 
-	do {
+    do{
 		cin >> number;
 
 		if(number == -1){
